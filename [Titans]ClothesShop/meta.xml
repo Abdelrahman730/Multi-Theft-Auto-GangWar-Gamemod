@@ -1,0 +1,8 @@
+<meta>
+    <info author="xMaKaKa" name="CJ Clothes" version="1.0" type="script"/>
+		
+    	<script src="clothes.lua" type="client"/>
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	
+</meta>

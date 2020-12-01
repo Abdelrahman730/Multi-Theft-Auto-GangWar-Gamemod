@@ -1,0 +1,9 @@
+<meta>
+	<script src="server.lua" cache="false"/>
+	<script src="client.lua" cache="false" type="client"/>
+	
+	<export function="giveAccounKeys" type="server" />
+	<export function="giveAccountChest" type="server" />
+	<export function="getAmountOfChest" type ="server" />
+	<export function="getAmountOfKeys" type="server" />
+</meta>

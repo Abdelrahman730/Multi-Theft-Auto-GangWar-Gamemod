@@ -1,0 +1,24 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" cache="false"/>
+	
+	<file src="Models/600.txd" download='false' />
+	<file src="Models/600.dff" download='false' />
+	
+	<file src="Models/582.txd" download='false' />
+	<file src="Models/582.dff" download='false' />
+	
+	<file src="Models/580.txd" download='false' />
+	<file src="Models/580.dff" download='false' />
+	
+	<file src="Models/588.txd" download='false' />
+	<file src="Models/588.dff" download='false' />
+	
+	<file src="Models/550.txd" download='false' />
+	<file src="Models/550.dff" download='false' />
+	
+	<file src="Models/362.txd" download='false' />
+	<file src="Models/362.dff" download='false' />
+	
+	<export function="setVehicleApplity" type="server" />
+</meta>
