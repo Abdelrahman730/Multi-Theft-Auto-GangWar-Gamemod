@@ -1,0 +1,29 @@
+<meta>
+	<script src="server.lua" type="server"></script>
+    <script src="client.lua" type="client" cache="false"></script>
+	
+	<file src="Icons\10.png"/>
+	<file src="Icons\11.png"/>
+	<file src="Icons\12.png"/>
+	<file src="Icons\13.png"/>
+	<file src="Icons\14.png"/>
+	<file src="Icons\15.png"/>
+	<file src="Icons\16.png"/>
+	<file src="Icons\17.png"/>
+	<file src="Icons\18.png"/>
+	<file src="Icons\19.png"/>
+	<file src="Icons\20.png"/>
+	<file src="Icons\30.png"/>
+	<file src="Icons\31.png"/>
+	<file src="Icons\32.png"/>
+	<file src="Icons\33.png"/>
+	<file src="Icons\dot_white.png"/>
+	
+	<file src="sounds/launcher_close.mp3" />
+	<file src="sounds/launcher_fire.mp3" />
+	<file src="sounds/launcher_open.mp3" />
+	<file src="sounds/launcher_insert.mp3" />
+	
+	<export function="saveWeapons" type="server" />
+	<export function="loadWeapon" type="server" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua"/>
+	
+	<export function="addAlert" type="server" />
+	<export function="addAlert" type="client" />
+</meta>
