@@ -1,0 +1,8 @@
+<meta>
+	<script src="server.lua" cache="false"/>
+	<script src="client.lua" cache="false" type="client"/>
+	
+	<file src="dot_white.png" />
+	
+	<export function="setDailyGiftsWindow" type="client" />
+</meta>

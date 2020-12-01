@@ -1,0 +1,34 @@
+<meta>
+	<info author='BeBo1' name='By BeBo1' type='gamemod' version='1.0' />
+	<script src='client.lua' type='client' cache="false" />
+	<script src='About.lua' type='client' cache="false" />
+	<script src='server.lua' cache="false" />
+	<map src="House.map" dimension="0"></map>
+	
+	
+	<!-- Fonts -->
+	<file src="Fonts/ntailub.ttf" />
+	<file src="Fonts/segoepr.ttf" />
+	<file src="Fonts/segoeprb.ttf" />
+	
+	
+	<!-- Images -->
+	<file src="Images/6.png" />
+	<file src="Images/7.png" />
+	<file src="Images/8.png" />
+	<file src="Images/dot_white.png" />
+	<file src="Images/Intro.png" />
+	
+	<!-- HTML -->
+	<file src="index.html" />
+	<!-- Videos -->
+	<file src="Videos/Intro.webm" />
+	
+	<!-- Files -->
+	<file src= "Files/About.xml" />
+	
+	<export function="setAccountNewPassword" type="server" />
+	<export function="onChangeTeam" type="client"/>
+	<export function="HideMainWindow" type="client"/>
+	<export function="giveAccountMoney" type="server"/>
+</meta>

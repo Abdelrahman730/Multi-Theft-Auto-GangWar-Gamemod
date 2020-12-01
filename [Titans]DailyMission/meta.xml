@@ -1,0 +1,9 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" cache="false"/>
+	
+	<file src="Images/11.png"/>
+	<file src="Images/dot_white.png"/>
+	
+	<export function="givePlayerDailyMissionProgress" type="server" />
+</meta>
